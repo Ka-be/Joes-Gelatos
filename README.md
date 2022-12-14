@@ -12,7 +12,6 @@ A simple header to practice the mouse move.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white)
 
 **Server:**
 ![None](https://img.shields.io/badge/NONE-778899?)
