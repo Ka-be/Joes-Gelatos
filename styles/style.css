@@ -65,7 +65,6 @@ body{
   position: absolute;
   top: 0;
   opacity: 0.4;
-  object-fit: cover; /*slowdown system*/
 }
 
 .text-container{
@@ -109,4 +108,13 @@ footer{
 a:hover{
   color: #492543;
   transition: all ease-out 0.4s;
+}
+
+/*MOBILE*/
+/*fix the slowdown system*/
+
+@media screen and (max-width: 800px) {
+  .ice-bg{
+    object-fit: cover; 
+  }
 }
