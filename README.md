@@ -1,14 +1,14 @@
-# Project Title - [status]
+# Joe's Gelatos - ![Status](https://img.shields.io/badge/Status-On%20going-fd9644?style=flat-square)
 
-![Status](https://img.shields.io/badge/Status-Not%20started-eb3b5a?style=flat-square)
+<!-- ![Status](https://img.shields.io/badge/Status-Not%20started-eb3b5a?style=flat-square)
 
 ![Status](https://img.shields.io/badge/Status-On%20going-fd9644?style=flat-square)
 
-![Status](https://img.shields.io/badge/Status-Finished-20bf6b?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Finished-20bf6b?style=flat-square) -->
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-Description du projet
+A simple header to practice the mouse move.
 
 ---
 
@@ -17,40 +17,26 @@ Description du projet
 **Client:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?&logo=sass&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)
 
 **Server:**
 ![None](https://img.shields.io/badge/NONE-778899?)
-![PHP](https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?&logo=nodedotjs&logoColor=white)
 
 ---
 
 ## 💡 Features
 
 ![Responsive](https://img.shields.io/badge/Responsive-None-E74C3C?style=flat-square)
-![Responsive](https://img.shields.io/badge/Responsive-Partial-3498DB?style=flat-square)
-![Responsive](https://img.shields.io/badge/Responsive-Full-27AE60?style=flat-square)
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+<!-- ![Responsive](https://img.shields.io/badge/Responsive-Partial-3498DB?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-Full-27AE60?style=flat-square) -->
 
 ---
 
 ## 💻 Softwares used
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00e&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FFe&logo=Adobe%20Lightroom&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?&logo=notion&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?&logo=visual%20studio%20code&logoColor=white) - Development </br>
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00e&logo=adobe%20illustrator&logoColor=white) - Logo design </br>
+![Notion](https://img.shields.io/badge/Notion-000000?&logo=notion&logoColor=white) - Notes & organization </br>
 
 ---
 
