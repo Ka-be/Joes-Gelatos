@@ -52,7 +52,7 @@ A simple header to practice the mouse move.
 
 ## 📸 Screenshots
 
-<img src="images/Screenshot.webp" width=50%>
+<img src="images/Screenshot.webp" width=80%>
 
 ---
 
