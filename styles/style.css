@@ -117,4 +117,11 @@ a:hover{
   .ice-bg{
     object-fit: cover; 
   }
+
+  .title{
+    font-size: 5em;
+  }
+  
+  .subtitle{
+    font-size: 2em;
 }
