@@ -1,6 +1,5 @@
 # Joe's Gelatos - ![Status](https://img.shields.io/badge/Status-Finished-20bf6b?style=flat-square)
 
-
 <img src="images/logo.svg" width=50%>
 
 A simple header to practice the mouse move.
@@ -29,7 +28,7 @@ A simple header to practice the mouse move.
 ## 💻 Softwares used
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?&logo=visual%20studio%20code&logoColor=white) - Development </br>
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00e&logo=adobe%20illustrator&logoColor=white) - Logo design </br>
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?&logo=adobe%20illustrator&logoColor=white) - Logo design </br>
 ![Notion](https://img.shields.io/badge/Notion-000000?&logo=notion&logoColor=white) - Notes & organization </br>
 
 ---
@@ -42,13 +41,13 @@ A simple header to practice the mouse move.
 
 ## 🎨 Color Reference
 
-| Color      | Hex                                                                |
-| ---------- | ------------------------------------------------------------------ |
-| Cream  | ![#F4F0E1](https://placehold.co/15x15/F4F0E1/F4F0E1.png) `#F4F0E1` |
-| Strawberry  | ![#B97CAE](https://placehold.co/15x15/b97cae/b97cae.png) `#B97CAE` |
+| Color            | Hex                                                                |
+| ---------------- | ------------------------------------------------------------------ |
+| Cream            | ![#F4F0E1](https://placehold.co/15x15/F4F0E1/F4F0E1.png) `#F4F0E1` |
+| Strawberry       | ![#B97CAE](https://placehold.co/15x15/b97cae/b97cae.png) `#B97CAE` |
 | Light strawberry | ![#F2E4EF](https://placehold.co/15x15/F2E4EF/F2E4EF.png) `#F2E4EF` |
-| Berry     | ![#492543](https://placehold.co/15x15/492543/492543.png) `#492543` |
-| Mint     | ![#72DCCA](https://placehold.co/15x15/72DCCA/72DCCA.png) `#72DCCA` |
+| Berry            | ![#492543](https://placehold.co/15x15/492543/492543.png) `#492543` |
+| Mint             | ![#72DCCA](https://placehold.co/15x15/72DCCA/72DCCA.png) `#72DCCA` |
 
 ---
 
