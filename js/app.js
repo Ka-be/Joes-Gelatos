@@ -3,8 +3,6 @@ const title = container.querySelector(".title");
 const background = container.querySelector(".ice-bg")
 const walk = 50; // 50px - Limit for the moving (25px to -25px)
 
-console.log(title);
-
 
 // Tracking the mouse coord.
 function movingShadow(e){
