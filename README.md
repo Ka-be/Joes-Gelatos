@@ -1,12 +1,7 @@
-# Joe's Gelatos - ![Status](https://img.shields.io/badge/Status-On%20going-fd9644?style=flat-square)
+# Joe's Gelatos - ![Status](https://img.shields.io/badge/Status-Finished-20bf6b?style=flat-square)
 
-<!-- ![Status](https://img.shields.io/badge/Status-Not%20started-eb3b5a?style=flat-square)
 
-![Status](https://img.shields.io/badge/Status-On%20going-fd9644?style=flat-square)
-
-![Status](https://img.shields.io/badge/Status-Finished-20bf6b?style=flat-square) -->
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<img src="images/logo.svg" width=50%>
 
 A simple header to practice the mouse move.
 
@@ -26,9 +21,7 @@ A simple header to practice the mouse move.
 
 ## 💡 Features
 
-![Responsive](https://img.shields.io/badge/Responsive-None-E74C3C?style=flat-square)
-<!-- ![Responsive](https://img.shields.io/badge/Responsive-Partial-3498DB?style=flat-square)
-![Responsive](https://img.shields.io/badge/Responsive-Full-27AE60?style=flat-square) -->
+![Responsive](https://img.shields.io/badge/Responsive-Partial-3498DB?style=flat-square)
 
 ---
 
@@ -59,7 +52,7 @@ A simple header to practice the mouse move.
 
 ## 📸 Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="images/Screencshot.webp" width=50%>
 
 ---
 
