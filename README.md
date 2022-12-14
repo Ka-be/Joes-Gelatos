@@ -12,6 +12,7 @@ A simple header to practice the mouse move.
 **Client:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white)
 
 **Server:**
@@ -43,16 +44,17 @@ A simple header to practice the mouse move.
 
 | Color      | Hex                                                                |
 | ---------- | ------------------------------------------------------------------ |
-| Turquoise  | ![#1ABC9C](https://placehold.co/15x15/1ABC9C/1ABC9C.png) `#1ABC9C` |
-| Dark grey  | ![#19242e](https://placehold.co/15x15/19242e/19242e.png) `#19242e` |
-| Light grey | ![#34495E](https://placehold.co/15x15/34495E/34495E.png) `#34495E` |
-| Silver     | ![#BDC3C7](https://placehold.co/15x15/BDC3C7/BDC3C7.png) `#BDC3C7` |
+| Cream  | ![#F4F0E1](https://placehold.co/15x15/F4F0E1/F4F0E1.png) `#F4F0E1` |
+| Strawberry  | ![#B97CAE](https://placehold.co/15x15/b97cae/b97cae.png) `#B97CAE` |
+| Light strawberry | ![#F2E4EF](https://placehold.co/15x15/F2E4EF/F2E4EF.png) `#F2E4EF` |
+| Berry     | ![#492543](https://placehold.co/15x15/492543/492543.png) `#492543` |
+| Mint     | ![#72DCCA](https://placehold.co/15x15/72DCCA/72DCCA.png) `#72DCCA` |
 
 ---
 
 ## 📸 Screenshots
 
-<img src="images/Screencshot.webp" width=50%>
+<img src="images/Screenshot.webp" width=50%>
 
 ---
 
